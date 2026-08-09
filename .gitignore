@@ -1,0 +1,4 @@
+node_modules/
+chat-server/node_modules/
+.env
+chat-server/.env
